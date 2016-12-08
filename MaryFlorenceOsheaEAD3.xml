@@ -1,0 +1,3855 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ead xmlns="http://ead3.archivists.org/schema/">
+	
+	<control>
+		
+		<recordid/> 
+		
+		<filedesc>
+			<titlestmt>
+				<titleproper>Mary Florence O'Shea Papers</titleproper>
+				<subtitle>8021 O'Shea Family Papers</subtitle>
+				<author>Steven Szegedi</author>
+			</titlestmt>
+			<publicationstmt>
+				<publisher>Dominican University Archives and Special Collections</publisher>
+			</publicationstmt>
+		</filedesc>
+		
+		<maintenancestatus value="new"/>
+	
+		<maintenanceagency>
+			<agencyname>Dominican University Archives and Special Collections</agencyname>
+		</maintenanceagency>
+		
+		<maintenancehistory>
+			<maintenanceevent>
+				<eventtype value="created"/>
+				<eventdatetime standarddatetime="2016-09-07">September 2016</eventdatetime>
+				<agenttype value="human"/>
+				<agent>nshouse</agent>
+			</maintenanceevent>
+		</maintenancehistory>
+		
+	</control>
+	
+	<archdesc level="collection">
+		
+		<did>
+			
+			<abstract/>
+			
+			<langmaterial>
+				<languageset>
+					<language>English</language>
+					<script scriptcode="Latn"/>
+				</languageset>
+			</langmaterial>
+			
+			<origination label="Creator">
+				<famname>
+					<part>The O'Shea Family</part>
+				</famname>
+			</origination>
+			
+			<physdesc>6.75 linear feet</physdesc>
+			
+			<repository>
+				<corpname>
+					<part>Dominican University Archives and Special Collections</part>
+				</corpname>	
+			</repository>
+			
+			<unitdate unitdatetype="inclusive">1864 - 2010</unitdate>
+			<unitdate unitdatetype="bulk">1943 - 1997</unitdate>
+			
+			<unitid label="accessionnumber">A10049</unitid>
+			
+			<unittitle>Mary Florence O'Shea Papers</unittitle>
+	
+		</did>	
+			
+			<accruals>
+				<p>None.</p>
+			</accruals>
+		
+			<acqinfo>
+				<p>Materials bequeathed to Dominican University by Mary Florence O'Shea</p>
+			</acqinfo>
+			
+			<arrangement>
+				<p>Generally throughout the collection materials are arranged chronologically, excepting in the case of subject files and correspondence where materials are alphabetical.  The whole collection is arranged chronologically, progressing from the O'Shea family papers on through each significant chapter of Mary Florence's life, in respect to her own particular organizational style.</p>
+				<p>Mary Florence O'Shea kept many photographs documenting her activities throughout her life.  These photographs were not kept in a single location, nor necessarily with the relevant collections, within her home.  Prints that were found with the individual collections were often stored separately.  In the interest of ease of access, photographs for any given series are interfiled with the relevant papers as the final <emph render="bolditalic">Sub-series</emph> of each given <emph render="bolditalic">Series</emph>.</p>	
+			</arrangement>
+			
+			<bibliography>
+				<bibref>USDA, ARS, National Genetic Resources Program.<title render="italic"><part>Germplasm Resources Information Network - (Grin)</part></title>[Online Database]. National Germplasm Resources Laboratory, Beltsville, Maryland.<ref href="http://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?452733"> http://www.ars-grin.gov/cgi-bin/npgs/html/taxon.pl?452733</ref> Web. Feb 22, 2011</bibref>	
+				<bibref>Remus, William. <title><part>“The Instruments for Gamelan Bali.”</part></title> Web. Feb 22, 2011 <ref href="http://remus.shidler.hawaii.edu/gamelan/baliinst.htm">http://remus.shidler.hawaii.edu/gamelan/baliinst.htm</ref></bibref>
+				<bibref>University of Michigan, Cultural Heritage Initiative for Community Outreach.<title><part>"The Glorious Gamelan." <emph render="italic">Gamelan: Venerable Lake of Honey.</emph></part></title>Web. 22 February 2011.<ref href="http://www2.si.umich.edu/chico/gamelan/gamelanVT2">http://www2.si.umich.edu/chico/gamelan/gamelanVT2</ref></bibref>
+			</bibliography>
+			
+			<bioghist>
+				<p>Mary Florence O’Shea was born September 8th, 1920. She graduated from Rosary College in 1941. From there she attended University of Chicago Teachers’ College and Loyola University from 1941 to 1943. During that same period she taught math at Wendell Phillips High School and chemistry at Marshall High School.</p>
+				<p>In 1943 she, along with her sister Mary Jane, enlisted in the Naval WAVES program, and served as a Navigation Instructor, Navigation Training Officer and Assistant Communications Officer, until 1946. Mary Florence and her sister Mary Jane were the first women ever to serve on military flight crews.</p>
+				<p>During the years of 1952-1954 she received a Fulbright Grant to teach in Burma. She taught for the State's Central High School from June 1953-1954, and was given the name Daw Myint Swe by her students and associates, who continued to use this address in their correspondence with her over the years.  While in Southeast Asia she used the opportunity to visit Singapore, the Philippines, Hong Kong, Japan and Thailand, finally returning to the United States via Hawaii in April of 1954.</p>
+				<p>After returning from her travels and work in Burma, Mary Florence began work with Phillips High School.  On March 14, 1955 she was transferred from Phillips High to the Hyde Park High School, an assignment which began March 14, 1955.  Mary Florence was later appointed principal of Philip Murray School on September 7, 1959.  She later served as principal for Luke O'Toole Elementary School from 1964 until [1985].  She retired from Chicago Public Schools on December 20th, 1985. </p>
+				<p>Mary Florence continued to travel until the early 2000s.  She passed away on the 20th of February, 2010.</p>
+				<p>Mrs. B.Maley died January 28, 1896, aged 74 years old</p>
+				<p>Bernard Stokes, brother of Caroline Stokes O'Shea, died March 31, 1933.</p>
+				<p>Carrie Stokes O'Shea, Mary Florence's mother, was buried on the first of August, 1942.</p>
+			</bioghist>
+		
+			<index>
+				<head>Personal Names:</head>
+				<indexentry>
+					<name>
+						<part>Margaret Aung Thwin</part>
+					</name>
+				</indexentry>
+				<indexentry>
+					<name>
+						<part>O'Neill, Sister Thomas Aquinas</part>
+					</name>
+				</indexentry>				
+				<indexentry>
+					<name>
+						<part>O'Shea, Mary Jane</part>
+					</name>
+				</indexentry>
+			</index>
+		
+			<prefercite>
+				<p><title render="italic"><part>Item, Date, Box #, Folder #, Record Group (series), Series # Title, University Archives, Dominican University</part></title></p>
+			</prefercite>
+		
+			<relatedmaterial>
+				<p>The Burma Studies Foundation, NIU, DeKalb, IL</p>
+			</relatedmaterial>
+			
+			<scopecontent>
+				<p>The Mary Florence O'Shea Papers contain materials from four generations of her family, including items from the O'Sheas, the Stokes and the Maleys.  Neither Mary Florence nor Mary Jane had children, and these papers represent the end of their familial line.  The bulk of the materials come from Mary Florence's own activities, and is grouped according to each significant milestone as she accounted for them.</p>
+				<p>There are hundreds of family photos, much ephemera related to her travels and interests, with a particular emphasis on her year spent in Burma from 1953 to 1954.  Also of note is her collection of photographs and ephemera from her time as the principal of Luke O'Toole School located on Chicago's south side.</p>
+			</scopecontent>
+		
+			<separatedmaterial>
+				<p>Duplicate materials and moldy materials discarded.  Most of the book collection transferred to the Rebecca Crown Library for processing.  Slides were evaluated on a case-by-case basis and faded or discolored items were discarded.  The bulk of the discarded slides were from Mary Florence's 1986 trip to China.  She purchased several color slide packets of tourist destinations, all of which were severely discolored or faded.</p>
+				<p>Several hundred photographs were discarded from Mary Florence's travels, due to fading, duplication, damage, or for a lack of contextual information.  Images of locations that are well-documented popularly, such as Paris, Rome, Sicily, London, etc., and which contained no intrinsic value other than as tourist photography, were also discarded.  In all, 16 photograph albums were removed from the collection.  A single two-volume sample of her photo album making was retained.</p>
+				<p>Select books removed to the general Special Collections book collection: <title render="italic"><part>The Way to Cook</part></title> by Julia Child, signed to Florence; <title render="italic"><part>Your Irish Ancestors</part></title> by J. Anderson Black placed with Mae Kennedy Kane's genealogical books; <title render="italic"><part>Le Vrai Visage du Padre Pio: Prêtre et Apôtre</part></title> by Maria Winowska, signed to Mary Jane, placed with Fribourg book collection.</p>
+				<p>Hats and scarves transferred to the fabric department via Susan Strawn.</p>
+			</separatedmaterial>
+		
+			<dsc>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 1: O'Shea Family</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p>These papers are drawn from materials left to Mary Florence by her elders and ancestors, or which come from her early childhood.  The bulk of these papers concern Bernard Stokes, a veteran of the Spanish-American War, as well as Mary Florence's mother and father.</p>
+					</scopecontent>
+					<c02 level="file">
+						<did>
+							<container localtype="box">FFC3, D3</container>
+							<container localtype="folder"/>
+							<unitdate>1864</unitdate>
+							<unittitle>Maley, D. - Appointment to Sergeant</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">1</container>
+							<unitdate>1868</unitdate>
+							<unittitle>Maley, D. - University of Notre Dame Receipt</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">2</container>
+							<unitdate>1869</unitdate>
+							<unittitle>Maley, Mrs. B. - Memorial Card</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">3</container>
+							<unitdate>1917, n.d.</unitdate>
+							<unittitle>O'Shea, Albert D.</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">4</container>
+							<unitdate>1920</unitdate>
+							<unittitle>Republic of Ireland Bond Certificate #1766</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">5</container>
+							<unitdate>1930, n.d.</unitdate>
+							<unittitle>Stokes, Bernard - ephemera</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">6</container>
+							<unitdate>1930 - 1934</unitdate>
+							<unittitle>Stokes, Bernard - Correspondence</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">1</container>
+							<unitdate>1933 - 1937</unitdate>
+							<unittitle>Commonwealth Edison Company Stock Certificate</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">7</container>
+							<unitdate>1939 - 1941</unitdate>
+							<unittitle>The Estate of Bernard Stokes</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">8</container>
+							<unitdate>1941</unitdate>
+							<unittitle>Correspondence - Caroline to Mrs. O'Shea</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">9</container>
+							<unitdate>1942</unitdate>
+							<unittitle>O'Shea, Carrie Stokes</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">2</container>
+							<unitdate>1952</unitdate>
+							<unittitle>O'Shea, Benjamin - Last Will and Testament</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">1</container>
+							<container localtype="folder">10</container>
+							<unitdate>n.d.</unitdate>
+							<unittitle>O'Shea Music Store, Inc.</unittitle>
+						</did>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 1: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">11</container>
+								<unitdate>ca. 1910 - 1929</unitdate>
+								<unittitle>Mary Florence, Mary Jane and their parents</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">12</container>
+								<unitdate>1933 - 1939, n.d.</unitdate>
+								<unittitle>Early family photographs, identified</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">13</container>
+								<unitdate>1936</unitdate>
+								<unittitle>Early family photographs, July, 1936</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">14</container>
+								<unitdate>ca. 1890 - 1925</unitdate>
+								<unittitle>Early family photographs, unidentified, folder 1 of 2</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">15</container>
+								<unitdate>ca. 1890 - 1956</unitdate>
+								<unittitle>Early family photographs, unidentified, folder 2 of 2</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">16</container>
+								<unitdate>1932 - 1978, n.d.</unitdate>
+								<unittitle>Photo Album</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+	
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 2: WAVES</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p>All of these papers are drawn from Mary Florence and Mary Jane's years of service in the Navy, from 1943 to 1946.  The bulk of the materials come from Mary Florence's scrapbook.  The scrapbook detailing her WAVES years holds an abundance of correspondence, ephemera and photography related to her service.</p>
+					</scopecontent>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 1: Correspondence</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">17</container>
+								<unitdate>1946</unitdate>
+								<unittitle>Dale, Audrey</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">18</container>
+								<unitdate>1946</unitdate>
+								<unittitle>Stewart, Rosemary J.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">19</container>
+								<unitdate>1943 - 1950</unitdate>
+								<unittitle>U.S. Navy</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 2: Chronological Files</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">20</container>
+								<unitdate>1943</unitdate>
+								<unittitle><title render="italic"><part>Marching to Victory</part></title>, fifteenth printing</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">21</container>
+								<unitdate>1943 - 1946</unitdate>
+								<unittitle>Naval Identification Cards</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">22</container>
+								<unitdate>1944</unitdate>
+								<unittitle>Appointment to Ensign</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">22</container>
+								<unitdate>1944</unitdate>
+								<unittitle>Appointment to Ensign</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">23</container>
+								<unitdate>1944</unitdate>
+								<unittitle>Mary Florence O'Shea Ensign Card</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">3</container>
+								<unitdate>1944</unitdate>
+								<unittitle><title render="italic"><part>Waves of the Navy</part></title>sheet music</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">24</container>
+								<unitdate>1944 - 1955</unitdate>
+								<unittitle>Officer Service Record</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">25</container>
+								<unitdate>ca. 1944 - 1947</unitdate>
+								<unittitle>Clippings</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">26</container>
+								<unitdate>1945</unitdate>
+								<unittitle>Designation as Naval Aviation Observer</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">27</container>
+								<unitdate>1945</unitdate>
+								<unittitle>Metropolitan Life Insurance Company</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">28</container>
+								<unitdate>1945</unitdate>
+								<unittitle>Officer's Qualification Record Jacket</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">1</container>
+								<container localtype="folder">29</container>
+								<unitdate>1945</unitdate>
+								<unittitle><title render="italic"><part>Waves News Letter</part></title>, December 1945</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">1</container>
+								<unitdate>ca. 1940s</unitdate>
+								<unittitle>Dead Reckoning Computer, specification AN-C-74</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">2</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Honorable Discharge from the U.S. Naval Reserve</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">3</container>
+								<unitdate>1994</unitdate>
+								<unittitle><title render="italic"><part>Naval History</part></title>, April 1994</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">4</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Department of Veterans' Affairs</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 3: Scrapbook</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1944 - 1946, n.d.</unitdate>
+								<unittitle>Scrapbook, WAVES</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">5</container>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 1-2 (see also: Oversized)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">6</container>
+								<unitdate>1944</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 17-18</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">4</container>
+								<unitdate>1944 - 1945</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 27-28</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">5</container>
+								<unitdate>1945</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 47-48</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">6</container>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 49-50</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">7</container>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 51-52</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">8</container>
+								<unitdate>1944 - 1945</unitdate>
+								<unittitle>Scrapbook, loose materials between pg. 53-54</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">7</container>
+								<unitdate>1945 - 1946</unitdate>
+								<unittitle>Scrapbook, loose materials between end pages, rear(see also: Oversized)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 4: Ephemera</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1943</unitdate>
+								<unittitle>Buttons for Naval coat, spare, 5 total</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1943</unitdate>
+								<unittitle>Naval visor cap band with insignia</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1944</unitdate>
+								<unittitle>Mary Florence O'Shea dog tag</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1944</unitdate>
+								<unittitle>Insignia Lapel Pins (10 total) </unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>Naval Aerial Navigator Wing (2 total) </unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>Naval Aviation Observer Wing</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>[Naval Aviation Observer Wing with missing bullion]</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>WWII Naval Officer cap pin</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1945</unitdate>
+								<unittitle>Ribbon Bar (WWII Victory Medal/WWII American Campaign Medal)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1954</unitdate>
+								<unittitle>U.S. Navy Reserve Honorable Discharge pin</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 5: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">8</container>
+								<unitdate>1944 - 1945</unitdate>
+								<unittitle>WAVES Photographs</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 3: Burma</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p>Papers, notebooks, ephemera and photographs drawn from Mary Florence's year teaching for the State School in Burma.</p>
+						<p>Mary Florence wrote extensively to her sister Mary Jane while teaching in Burma.  These letters can be found in 8021 Mary Jane O'Shea Papers – Personal Papers – Correspondence.</p>	
+					</scopecontent>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series ?: Correspondence</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">9</container>
+								<unitdate>1957</unitdate>
+								<unittitle>Ba Shin</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">10</container>
+								<unitdate>1953 - 1954, n.d.</unitdate>
+								<unittitle>Ba Shin</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">9</container>
+								<unitdate>1955</unitdate>
+								<unittitle>Burman, Shibbal &amp; Shellay</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">11</container>
+								<unitdate>1955 - 1957</unitdate>
+								<unittitle>Chit Ko Ko</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">12</container>
+								<unitdate>1954</unitdate>
+								<unittitle>The Crazy Gang</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">10</container>
+								<unitdate>1953 - 1960</unitdate>
+								<unittitle>Daw Christabel Sein</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">13</container>
+								<unitdate>1953, n.d.</unitdate>
+								<unittitle>Dot</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">14</container>
+								<unitdate>1957</unitdate>
+								<unittitle>Harsany, Emilene</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">15</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Hla Hla [Kyin] (Hilda)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">16</container>
+								<unitdate>1954</unitdate>
+								<unittitle>U Hla Tun Siu and Daw Shaw May</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">17</container>
+								<unitdate>ca. 1950s</unitdate>
+								<unittitle>Htun Myaing &amp; Shella</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">18</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Josef</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">19</container>
+								<unitdate>1957</unitdate>
+								<unittitle>Julie Thin Kyi</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">20</container>
+								<unitdate>1954 - 1957</unitdate>
+								<unittitle>Kyaw Htun</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">21</container>
+								<unitdate>1955</unitdate>
+								<unittitle>Kyaw Myint Kyaw</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">22</container>
+								<unitdate>1955</unitdate>
+								<unittitle>Landry, Lionel</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">23</container>
+								<unitdate>1954 - 1995, n.d.</unitdate>
+								<unittitle>Margaret Aung Thwin</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">24</container>
+								<unitdate>1953</unitdate>
+								<unittitle>Mosier, Mildred A.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">25</container>
+								<unitdate>1954 - 1955, n.d.</unitdate>
+								<unittitle>Norma Thein Nyunt &amp; Mandie</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">26</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Nyunnt Nyuunt Yee</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">27</container>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>O'Shea, Mary Florence, to Aunt Alice and Uncle Jim</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">28</container>
+								<unitdate>1955 - 1977, n.d.</unitdate>
+								<unittitle>Sircar, Nina</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">29</container>
+								<unitdate>1961</unitdate>
+								<unittitle>U Thant</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">30</container>
+								<unitdate>1955</unitdate>
+								<unittitle>Thein Nyunt</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">31</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Tin, Richard N.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">32</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>W, Ahkwe</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">33</container>
+								<unitdate>1954, n.d.</unitdate>
+								<unittitle>Welsh, Janet</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">11</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Wolf, Frank E., to Ucho, U.S. Educational Foundation in Burma</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">34</container>
+								<unitdate>1954 - 1962, n.d.</unitdate>
+								<unittitle>Correspondence, empty covers</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">35</container>
+								<unitdate>1953 - 1958, n.d.</unitdate>
+								<unittitle>Correspondence, general and unidentified</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 2: Subject Files</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">12</container>
+								<unitdate>1954</unitdate>
+								<unittitle>American Export Lines, Inc.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">36</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Azad Photo Studio</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">37</container>
+								<unitdate>1953</unitdate>
+								<unittitle>Bristol Hotel</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">13</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Burma-America Institute, Spoken Burmese, Unit I, Revised</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">38</container>
+								<unitdate>2009</unitdate>
+								<unittitle>The Burma Studies Foundation - Deed of Gift</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">39</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Burma Translation Society, "Goldfish for Primary Schools"</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">40</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Burma Translation Society, "Weather and Climate for Primary Schools"</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1953</unitdate>
+								<unittitle>Burmese Calendar Art, 3 sheets</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">2</container>
+								<container localtype="folder">41</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Business Cards</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1954, n.d.</unitdate>
+								<unittitle>Clippings - State High School and Margaret Hope Aung-Thwin</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">1</container>
+								<unitdate>1968 - 2001, n.d.</unitdate>
+								<unittitle>Clippings - Conflict, Aung San Suu Kyi, and general</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">14</container>
+								<unitdate>1968 - 1992, n.d.</unitdate>
+								<unittitle>Clippings, general</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">2</container>
+								<unitdate>1938</unitdate>
+								<unittitle>Druitt &amp; Stamp, "A World Geography for Schools in Burma, Part I:Burma and India</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">3</container>
+								<unitdate>1959</unitdate>
+								<unittitle>Educational Exchange Newsletter</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">4</container>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>The Embassy of Burma</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">15</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Exchange Control Department</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">5</container>
+								<unitdate>1952 - 1953</unitdate>
+								<unittitle>Fulbright Grant and release to teach in Burma</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">6</container>
+								<unitdate>ca. 1954</unitdate>
+								<unittitle>Hand-painted greeting cards, blank</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">16</container>
+								<unitdate>1954</unitdate>
+								<unittitle>High School Final and Matriculation Examination</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">7</container>
+								<unitdate>ca. 1954</unitdate>
+								<unittitle>"Indonesia To-Day: Education and Science", Ministry of Information Diakarta</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">8</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Institute of International Education - News Bulletin</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1953</unitdate>
+								<unittitle>KLM - <title render="italic"><part>Acolyte of Aeolus</part></title> certificate</unittitle>
+								<dao actuate="onload" daotype="derived" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/5" show="embed" localtype="simple" linkrole="Image-Thumbnail" linktitle="KLM - Acolyte of Aeolus certificate"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">9</container>
+								<unitdate>1953</unitdate>
+								<unittitle>License to drive a Motor-Vehicle, Burma</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">10</container>
+								<unitdate>1954</unitdate>
+								<unittitle>List of articles in Sea Freight</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">11</container>
+								<unitdate>1953</unitdate>
+								<unittitle>M. G. Kapadia &amp; Co.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Map of Rangoon, published by U San Pe</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">12</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Map of Southeast Asia</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">13</container>
+								<unitdate>1952</unitdate>
+								<unittitle>Ministry of Education - Educational Plan for a Welfare State</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">14</container>
+								<unitdate>1953</unitdate>
+								<unittitle>Notebook, "Prome Road, 1953"</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">15</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Notebook (black cover)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">16</container>
+								<unitdate>ca. 1950s</unitdate>
+								<unittitle>Notebook -"Conflict of Pakistan + India"</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">17</container>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>Notes and Jounrals from Burma</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">18</container>
+								<unitdate>1953</unitdate>
+								<unittitle>Officers of the Department of Education, Headquarters, Rangoon</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Painted panels, [stories the Ramikian], 4 total</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1954</unitdate>
+								<unittitle>Paintings - Larban, [ethnic groups of Burma], 7 total</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1953</unitdate>
+								<unittitle>Paintings - Mg Sein Gyi, 4 total</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">19</container>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>Pan American World Airways</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1954</unitdate>
+								<unittitle>Pan American World Airways - <title render="italic"><part>Domain of Phoebus Apollo: Ruler of the Sun and Heaven</part></title>certificate</unittitle>
+								<dao daotype="derived" localtype="simple" actuate="onload" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/9" linkrole="Image-Thumbnail" show="embed" linktitle="Pan American World Airways - Domain of Phoebus Apollo: Ruler of the Sun and Heaven certificate"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">20</container>
+								<unitdate>1953</unitdate>
+								<unittitle><title render="italic"><part>Power of Attorney by Individual for the Collection of Checks Drawn on the Treasurer of the United States</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">21</container>
+								<unitdate>ca. 1953 - 1954</unitdate>
+								<unittitle>Print ephemera</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">17</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Pyidawtha Handicap Tennis Tournament, Mixed Doubles</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">22</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>The Rangoon Boy Scouts' Association</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">18</container>
+								<unitdate>1953</unitdate>
+								<unittitle>The Registration of Foreigners Rules, 1948. Temporary Certificate of Registration</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">23</container>
+								<unitdate>1953</unitdate>
+								<unittitle>Science Department</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">24</container>
+								<unitdate>1954</unitdate>
+								<unittitle>Social and Reading Club, University of Rangoon</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">25</container>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>State High School</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">19</container>
+								<unitdate>1953</unitdate>
+								<unittitle>United States Education Exchange Grant</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">20</container>
+								<unitdate>1953 - 1962, n.d.</unitdate>
+								<unittitle>United States Educational Foundation in Burma</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 3: Ephemera</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Mother-of-pearl lapel pins</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 4: Slides</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>Burma, slide carousel 1 of 3 (125 slides total)</unittitle>
+								<dao daotype="derived" linkrole="Image-Thumbnail" actuate="onload" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/0" localtype="simple" show="embed" linktitle="Burma, slide carousel 1 of 3 (125 slides total)"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>Burma, slide carousel 2 of 3 (118 slides total)</unittitle>
+								<dao daotype="derived" linktitle="Burma, slide carousel 2 of 3 (118 slides total)" show="embed" localtype="simple" actuate="onload" linkrole="Image-Thumbnail" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/175"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1953 - 1954</unitdate>
+								<unittitle>Burma, slide carousel 3 of 3 (28 slides total)</unittitle>
+								<dao daotype="derived" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/256" linkrole="Image-Thumbnail" actuate="onload" localtype="simple" show="embed" linktitle="Burma, slide carousel 3 of 3 (28 slides total)"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">5</container>
+								<unitdate>1967</unitdate>
+								<unittitle>Margaret Aung Thwin (1 slide)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 5: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1953</unitdate>
+								<unittitle>Central State High School, Rangoon (3 images total)</unittitle>
+								<dao daotype="derived" linkrole="Image-Thumbnail" localtype="simple" show="embed" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/16" actuate="onload" linktitle="First year pre-medical students and staff at the Central State High School"/>
+								<dao daotype="derived" linktitle="Signatures" show="embed" localtype="simple" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/218" actuate="onload" linkrole="Image-Thumbnail"/>
+								<dao daotype="derived" linktitle="Second year pre-medical students and staff at the Central State High School" show="embed" localtype="simple" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/190" actuate="onload" linkrole="Image-Thumbnail"/>
+								<dao daotype="derived" linkrole="Image-Thumbnail" actuate="onload" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/209" localtype="simple" show="embed" linktitle="Union Christian students and staff at the Central State High School"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Union of Burma</unittitle>
+								<dao daotype="derived" linkrole="Image-Thumbnail" linktitle="Union of Burma" localtype="simple" show="embed" href="http://collections.carli.illinois.edu/cdm/ref/collection/dom_oshea/id/203" actuate="onload"/>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1954</unitdate>
+								<unittitle>Resistance Day Parade, 27 March, 1954</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953 - 1954</unitdate>
+								<unittitle>Photo Album (brown cover)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953 - 1954</unitdate>
+								<unittitle>Photo Album (blue/grey cover)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">26</container>
+								<unitdate>1954 - 1957</unitdate>
+								<unittitle>Burmese Photographs, loose</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 4: Teaching / Principalship</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p>These are papers and photographs from Mary Florence's long career as an educator and principal for Chicago Public Schools (CPS).  The bulk of these materials come from her tenure at Luke O'Toole School in what is today the West Englewood community.  There are also papers from Philip Murray School and Hyde Park High School, as well as general materials from CPS and Illinois educational foundations.</p>
+					</scopecontent>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 1: Luke O'Toole School</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">27</container>
+								<unitdate>1964</unitdate>
+								<unittitle>O'Toole School, "Teen Problems"</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">28</container>
+								<unitdate>1965 - 1969</unitdate>
+								<unittitle><title render="italic"><part>Beaver Pathway</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1965 - 1979</unitdate>
+								<unittitle>Clippings</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">29</container>
+								<unitdate>1968</unitdate>
+								<unittitle>Luke O'Toole Parent-Teacher Association, District 25 Program Year Book 1968 - 1969</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">30</container>
+								<unitdate>1972</unitdate>
+								<unittitle>O'Toole School Record Book, Nov. 1972</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">31</container>
+								<unitdate>1976</unitdate>
+								<unittitle><title render="italic"><part>O'Toole Piper</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">32</container>
+								<unitdate>ca. 1976</unitdate>
+								<unittitle>Mailing List, O'Toole School</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">33</container>
+								<unitdate>1977</unitdate>
+								<unittitle><title render="italic"><part>O'Toole Piper</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">34</container>
+								<unitdate>1982</unitdate>
+								<unittitle>Luke O'Toole School Newspaper</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">35</container>
+								<unitdate>1984</unitdate>
+								<unittitle>Performance Appraisal Form</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">36</container>
+								<unitdate>1985</unitdate>
+								<unittitle>"The best person I would most like to talk to" by Eileen Johnson</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">37</container>
+								<unitdate>1985</unitdate>
+								<unittitle>Luke O'Toole Elementary School Graduation Exercises</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">3</container>
+								<container localtype="folder">38</container>
+								<unitdate>1985</unitdate>
+								<unittitle>Resignation</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">21</container>
+								<unitdate>1985</unitdate>
+								<unittitle>Retirement Memory Book, photographed + compiled by D. Flynn &amp; D. Tannheimer (see also: Oversized FFC3, D3 &amp; Photo Album (green cover, silver stripes)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Mary F. O'Shea Luke O'Toole School Sliver Burdett Co. binder</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 2: Subject Files</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">1</container>
+								<unitdate>1942 - 1959</unitdate>
+								<unittitle>Board of Education, City of Chicago</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">22</container>
+								<unitdate>1950</unitdate>
+								<unittitle>Chicago Public Schools (CPS) - Teacher's Certificate</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">2</container>
+								<unitdate>1955</unitdate>
+								<unittitle>CPS - Notice of Teacher Transfer</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">23</container>
+								<unitdate>1955</unitdate>
+								<unittitle>CPS - Principal's Certificate</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1957</unitdate>
+								<unittitle><title render="italic"><part>The Hydeparker</part></title>, Vol.85, No.11</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1957</unitdate>
+								<unittitle><title render="italic"><part>Hyde Park High School A Cappella Choir gives Joy to the World</part></title>, Galewood Records, Inc. (10" vinyl)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1958</unitdate>
+								<unittitle><title render="italic"><part>Hyde Park High School A Cappella Choir, Jerome K. Ramsfield, Director</part></title>, Century Record Co. (10" vinyl, blue)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">3</container>
+								<unitdate>1958</unitdate>
+								<unittitle>George Peabody College for Teachers</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">4</container>
+								<unitdate>1959</unitdate>
+								<unittitle>Philip Murray School</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">5</container>
+								<unitdate>1965 - 1977</unitdate>
+								<unittitle>Illinois Congress of Parents and Teachers</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">6</container>
+								<unitdate>1969</unitdate>
+								<unittitle>Chicago Board of Education Service Recognition</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">7</container>
+								<unitdate>1970</unitdate>
+								<unittitle>Chicago Board of Education Service Recognition</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">8</container>
+								<unitdate>1973</unitdate>
+								<unittitle>New City Lions Club</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">9</container>
+								<unitdate>1973 - 2000</unitdate>
+								<unittitle>Public School Teachers' Pension and Retirement Fund of Chicago</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">10</container>
+								<unitdate>1974</unitdate>
+								<unittitle>Chicago Board of Education Service Recognition</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1981</unitdate>
+								<unittitle>Push for Excellence Inc. - Award For Excellence</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">11</container>
+								<unitdate>1984</unitdate>
+								<unittitle>Chicago Public Schools Employees' Service Recognition Reception</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">12</container>
+								<unitdate>1986</unitdate>
+								<unittitle>Chicago Principals Association</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">13</container>
+								<unitdate>1986</unitdate>
+								<unittitle>Chicago Public Schools</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">14</container>
+								<unitdate>1986 - 2009</unitdate>
+								<unittitle>Retired Teachers Association of Chicago</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">15</container>
+								<unitdate>1991</unitdate>
+								<unittitle>Aquin Guild - Distinguished Service Award (see also: Oversized)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 3: Ephemera</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1975 - 1985</unitdate>
+								<unittitle>CPS service pins, <title render="italic"><part>25 Years; 30 Years; 35 Years</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Illinois Congress of Parents and Teachers <title render="italic"><part>Life Member</part></title>pin</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 4: Slides</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1961</unitdate>
+								<unittitle>Philip Murray School (33 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1965</unitdate>
+								<unittitle>Headstart (2 boxes, 77 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1966</unitdate>
+								<unittitle>O'Toole - Jean Rose 7 + 7 Club (17 slides)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1966</unitdate>
+								<unittitle>O'Toole (3 boxes, 68 slides)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">2</container>
+								<unitdate>1966</unitdate>
+								<unittitle>O'Toole, May 1966 (4 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1967</unitdate>
+								<unittitle>Headstart (37 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1967</unitdate>
+								<unittitle>O'Toole (19 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1971 - 1972</unitdate>
+								<unittitle>O'Toole, slide carousel 1 of 2 (89 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">8</container>
+								<unitdate>1972</unitdate>
+								<unittitle>O'Toole, June 1972 (11 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1972 - 1973</unitdate>
+								<unittitle>O'Toole, <title render="italic"><part>Int'l Fair - Bazaar</part></title>slide carousel 2 of 2 (125 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">10</container>
+								<unitdate>1975</unitdate>
+								<unittitle>O'Toole, 1975 August (7 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1975</unitdate>
+								<unittitle>O'Toole - Kindergarten Graduation (21 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1975</unitdate>
+								<unittitle>2EII Christmas 75 incl. O'Toole Christmas Assembly, Don City, 400 E.R. slide carousel (61 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1978</unitdate>
+								<unittitle>O'Toole - Kindergarten (13 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1981</unitdate>
+								<unittitle>O'Toole (13 slides total)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 5: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">16</container>
+								<unitdate>1966 - 1982</unitdate>
+								<unittitle>O'Toole School</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">17</container>
+								<unitdate>1968</unitdate>
+								<unittitle>O'Toole Teachers Luncheon</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">18</container>
+								<unitdate>1969 - 1975, n.d.</unitdate>
+								<unittitle>Principals, District 15</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">19</container>
+								<unitdate>1982, n.d.</unitdate>
+								<unittitle>O'Toole Photo Album, folder 1 of 2</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">20</container>
+								<unitdate>1982, n.d.</unitdate>
+								<unittitle>O'Toole Photo Album, folder 2 of 2</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">21</container>
+								<unitdate>1982</unitdate>
+								<unittitle>O'Toole School - "Be the Best of Whatever You Are"</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">22</container>
+								<unitdate>1983</unitdate>
+								<unittitle>O'Toole School</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">23</container>
+								<unitdate>1984</unitdate>
+								<unittitle>O'Toole School</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">24</container>
+								<unitdate>ca. 1985</unitdate>
+								<unittitle>O'Toole Retirement Party</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">4</container>
+								<container localtype="folder">25</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>O'Toole School</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 5: Rosary College / Dominican University</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p>This slim set of materials is primarily comprised of items from Mary Florence's graduation, and from her subsequent attendance at various college Reunions over the years.This slim set of materials is primarily comprised of items from Mary Florence's graduation, and from her subsequent attendance at various college Reunions over the years.</p>
+					</scopecontent>
+					<c02 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">26</container>
+							<unitdate>1938</unitdate>
+							<unittitle>Fete Night</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">27</container>
+							<unitdate>1941</unitdate>
+							<unittitle>Commencement</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">24</container>
+							<unitdate>1941</unitdate>
+							<unittitle>Bachelor of Arts</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">28</container>
+							<unitdate>1991</unitdate>
+							<unittitle>Reunion 1991</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">4</container>
+							<container localtype="folder">29</container>
+							<unitdate>2001</unitdate>
+							<unittitle>Reunion 2001</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">1</container>
+							<unitdate>2006</unitdate>
+							<unittitle>Reunion 2006</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">2</container>
+							<unitdate>2008 - 2009, n.d.</unitdate>
+							<unittitle>Christmas Cards</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">3</container>
+							<unitdate>2009</unitdate>
+							<unittitle>Annual Fund</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">4</container>
+							<unitdate>2010</unitdate>
+							<unittitle>Mazzuchelli Heritage Society</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">5</container>
+							<unitdate>n.d.</unitdate>
+							<unittitle>Bookmarks</unittitle>
+						</did>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 1: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">5</container>
+								<container localtype="folder">6</container>
+								<unitdate>1941, n.d.</unitdate>
+								<unittitle>Graduation and Candid</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">5</container>
+								<container localtype="folder">7</container>
+								<unitdate>1991, n.d.</unitdate>
+								<unittitle>Reunions</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 6: Outer Drive East Condominium</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p>These files come from Mary Florence and Mary Jane's </p>
+					</scopecontent>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">7</container>
+							<unitdate>1991, n.d.</unitdate>
+							<unittitle>Reunions</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">FFC3, D3</container>
+							<container localtype="folder"/>
+							<unitdate>1973</unitdate>
+							<unittitle>Chicagoland Survey Co. Plat of Survey of 12th Floor</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">25</container>
+							<unitdate>1973</unitdate>
+							<unittitle>Outer Drive East Condominium Initial Offering</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">26</container>
+							<unitdate>ca. 1973</unitdate>
+							<unittitle>Outer Drive East Condominium Brochure (see also: Oversized FFC3, D3)</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">27</container>
+							<unitdate>ca. 1973</unitdate>
+							<unittitle>By-laws of the 400 Condominium Association</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">28</container>
+							<unitdate>1973 - 1974</unitdate>
+							<unittitle>Escrow Agreement and Tax Assessment</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">9</container>
+							<unitdate>1973 - 1991</unitdate>
+							<unittitle>Loans - Clyde Savings / Mid-City National Bank</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">10</container>
+							<unitdate>1973 - 2008</unitdate>
+							<unittitle>Cook County Property Tax Bills</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">11</container>
+							<unitdate>1976</unitdate>
+							<unittitle>The 400 Condominium Association - Correspondence</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">12</container>
+							<unitdate>ca. 1976 - 1978</unitdate>
+							<unittitle><title render="italic"><part>Homeowner's Guide to Property Assessment</part></title>, Cook County</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">13</container>
+							<unitdate>ca. 1970s</unitdate>
+							<unittitle>Outer Drive East Condominium Stationery</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">14</container>
+							<unitdate>1982</unitdate>
+							<unittitle>Appraisal Certificate</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">FFC3, D3</container>
+							<container localtype="folder"/>
+							<unitdate>1984</unitdate>
+							<unittitle>Clippings</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">15</container>
+							<unitdate>1985 - 2002</unitdate>
+							<unittitle>The 400 Condominium Association - Monthly Assessments</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">16</container>
+							<unitdate>1991 - 1992</unitdate>
+							<unittitle>Loans - River Valley Savings Bank</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">17</container>
+							<unitdate>1992 - 2002</unitdate>
+							<unittitle>Senior Tax Credit</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">18</container>
+							<unitdate>1994 - 2000</unitdate>
+							<unittitle>Senior Citizen Sewer Charge Refund</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">19</container>
+							<unitdate>1995</unitdate>
+							<unittitle>Loans - First Bank Mortgage</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">20</container>
+							<unitdate>1996</unitdate>
+							<unittitle>Gold Coast Bath Systems, Inc.</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">21</container>
+							<unitdate>1998</unitdate>
+							<unittitle>Loans - Calumet Securities Corporation</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">29</container>
+							<unitdate>1999</unitdate>
+							<unittitle>The 400 Condominium Association - Parking License Agreement</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">22</container>
+							<unitdate>2000</unitdate>
+							<unittitle>Loans - BSI Finanical Services, Inc.</unittitle>
+						</did>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 1: Slides</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1970 - 1973</unitdate>
+								<unittitle>Outer Drive East (33 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1971</unitdate>
+								<unittitle>Outer Drive East - MAC (17 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1983</unitdate>
+								<unittitle>Outer Drive East - Lake Shore Drive Realignment (25 slides total)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 2: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">5</container>
+								<container localtype="folder">23</container>
+								<unitdate>1983</unitdate>
+								<unittitle>Lake Shore Drive Realignment</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">5</container>
+								<container localtype="folder">24</container>
+								<unitdate>1986</unitdate>
+								<unittitle>Condominium interior</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">5</container>
+								<container localtype="folder">25</container>
+								<unitdate>1985 - 1986, n.d.</unitdate>
+								<unittitle>Views from balcony</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">5</container>
+								<container localtype="folder">26</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Views of Outer Drive East</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 7: Travel / Continuing Studies</part></title></unittitle>
+					</did>
+					<scopecontent>
+						<p><emph render="bold">Gamelan Musical Troupe</emph></p>
+						<p>Sitting gamelan ensemble is carved from Diospyros Celebica, a type of tree that is found in Indonesia.</p>
+						<p>One (1) wooden seated male figurine with a gong, carved as single piece of wood. The gong hangs from an architectural frame, which is carved with decorations on the side that faces away from the figure.</p>
+						<p>Two (2) wooden kneeling male figurines wearing robes, pointed hats, and earrings. Each figurine holds up his right hand and has his left on his left knee. His hair falls onto his back and he has a band across his chest. One figurine is two-toned wood and the other is a single tone.</p>
+						<p>Two (2) wooden seated male figurines, each with his hands on a rectangular instrument. Each figure has his arms bent at the elbows and wears a hat with one raised, pointed edge. He also wears a robe tied around his torso. Both figurines are carved from two-toned wood. The instrument has a triangular pattern carved onto it in low relief.</p>
+						<p>One (1) wooden seated male figuring carved from wood of a single tone. He rests his hands on a rectangular instrument with a square pattern carved onto its front panel. He wears a robe tied around his torso and a hat with one raised, pointed edge.</p>
+						<p>Two (2) wooden sated male figurines, each holding a cylindrical instrument under his left arm. Each rests on his knees, wears a robe tied around his torso, and has a hat with one raised, pointed edge. Both figurines are carved from two-toned wood.</p>
+						<p>Two (2) wooden seated male figurines, each with a large drum across his knees. Each wears a robe tied around his torso, and has a hat with one raised, pointed edge. The drums have different decorative carvings on them that distinguish the two figures. One drum has three registers with a triangular pattern running around the head of the drum. The other drum is not divided into registers; it has a triangular pattern around its head and vertical bands that run from top to bottom.</p>
+						<p>Four (4) carved wooden mallets: One (1) dark brown with cylindrical head, 3.1cm long; one (1) light brown with wedge-shaped head, 2.8cm long; one (1) dark brown with wedge-shaped head, 3.9cm long; and one (1) with a large cylindrical head, 4.3cm long and 1cm diameter.</p>
+						<p>The average dimensions of the Gamelan figurines are 12.5cm x 5.2cm x 2.6cm. Pair of Figurines</p>
+						<p><emph render="bold">Wooden Figures</emph></p>
+						<p>Two (2) wooden figurines, one male and one female, measuring 14cm x 4cm x 6.6 cm. The male figure holds an umbrella in his right hand while his left hand hangs at his side. He wears sandal, a robe, an overcoat, and a head wrap. The female stands with her arms at her sides, her left hand slightly behind her. She wears sandals, a robe, a knee-length overcoat, and a strand of beads around her neck. She wears a woven hat and her hair extends from one side of the hat and over her shoulder. The wood is light in color and each figurine stands on an oval base.</p>
+					</scopecontent>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">27</container>
+							<unitdate>1953 - 1993</unitdate>
+							<unittitle>Passports</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">28</container>
+							<unitdate>1953</unitdate>
+							<unittitle>Britain - Paris - Lebanon</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">29</container>
+							<unitdate>1953</unitdate>
+							<unittitle>Istanbul, Turkey</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">30</container>
+							<unitdate>ca. 1953</unitdate>
+							<unittitle><title render="italic"><part>Travel Guide</part></title>, Singapore Travel Service</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">31</container>
+							<unitdate>ca. 1954</unitdate>
+							<unittitle>Toshogu Shrine, Japan</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">31</container>
+							<unitdate>ca. 1954</unitdate>
+							<unittitle>Toshogu Shrine, Japan</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">32</container>
+							<unitdate>1971</unitdate>
+							<unittitle><title render="italic"><part>The Main Passage</part></title></unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">33</container>
+							<unitdate>1971 - 1974</unitdate>
+							<unittitle>International Certificates of Vaccination</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">34</container>
+							<unitdate>1978</unitdate>
+							<unittitle>Munich</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">35</container>
+							<unitdate>1979</unitdate>
+							<unittitle>The Chicago Council on Foreign Relations - Alaska, June 30 - July 14, 1979</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">36</container>
+							<unitdate>1980</unitdate>
+							<unittitle>The Chicago Council on Foreign Relations - Scandinavia, July 24 - August 9</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">30</container>
+							<unitdate>1983</unitdate>
+							<unittitle><title render="italic"><part>Island World of Britain</part></title></unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">31</container>
+							<unitdate>1984</unitdate>
+							<unittitle><title render="italic"><part>Summer River Views and Seascopes</part></title>aboard the yacht Argonaut, August 9-22 </unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">5</container>
+							<container localtype="folder">37</container>
+							<unitdate>1985</unitdate>
+							<unittitle>Mallorca / Spain / Portugal</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">1</container>
+							<unitdate>1986</unitdate>
+							<unittitle>The Field Museum - <title render="italic"><part>Te Maori</part></title>exhibition</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">2</container>
+							<unitdate>1986</unitdate>
+							<unittitle>New Zealand Cultural Expedition, April 14 - May 4, 1986</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">3</container>
+							<unitdate>1986</unitdate>
+							<unittitle>China Trip, September 2-23 (see also: FFC3, D3)</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">32</container>
+							<unitdate>1987</unitdate>
+							<unittitle>The Cambridge / UCLA Program, July 5 - August 15, 1987</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">4</container>
+							<unitdate>1987</unitdate>
+							<unittitle>The Cambridge / UCLA Program - Notebooks</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">5</container>
+							<unitdate>1988</unitdate>
+							<unittitle><title render="italic"><part>Canals and Old Masters: Treasures of the Netherlands and Belgium</part></title></unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">6</container>
+							<unitdate>1988</unitdate>
+							<unittitle>The Art Institute of Chicago - <title render="italic"><part>Chicago Architecture 1972-1922 series</part></title></unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">7</container>
+							<unitdate>1988</unitdate>
+							<unittitle>UCLA Extension - <title render="italic"><part>Discovering London Through its Architecture</part></title></unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">8</container>
+							<unitdate>1989</unitdate>
+							<unittitle>Trinity / Simthsonian Seminar, August 11-26, 1989</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">12</container>
+							<container localtype="folder">33</container>
+							<unitdate>1990</unitdate>
+							<unittitle>The Paris Program, July 8-28</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">9</container>
+							<unitdate>1991</unitdate>
+							<unittitle>Maori Support Group</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">10</container>
+							<unitdate>1992</unitdate>
+							<unittitle>Elderhostel Program, France</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">6</container>
+							<container localtype="folder">11</container>
+							<unitdate>1993</unitdate>
+							<unittitle>Splendors of Italy Tour</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">1</container>
+							<unitdate>1994</unitdate>
+							<unittitle>Britain / Scotland, folder 1 of 2</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">2</container>
+							<unitdate>1994</unitdate>
+							<unittitle>Britain / Scotland, folder 2 of 2</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">3</container>
+							<unitdate>1994</unitdate>
+							<unittitle>Elderhostel Fine Arts Programmes 1994, <title render="italic"><part>From Antiquity to the Renaissance</part></title></unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">4</container>
+							<unitdate>1995</unitdate>
+							<unittitle>California</unittitle>
+						</did>
+					</c02>
+					<c02 level="file">
+						<did>
+							<container localtype="box">7</container>
+							<container localtype="folder">5</container>
+							<unitdate>1997</unitdate>
+							<unittitle>Harold Washington College - Introduction to MS Word 6</unittitle>
+						</did>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 2: Ephemera</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Gamelan Ensemble (15 pieces)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Wooden figures (1 male and 1 female)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 3: Postcard Collection</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Burmese postcards</unittitle>
+								<physdesc>20 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1953</unitdate>
+								<unittitle>Thai postcards</unittitle>
+								<physdesc>2 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1954</unitdate>
+								<unittitle>Indonesian postcards</unittitle>
+								<physdesc>2 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1954</unitdate>
+								<unittitle>Philippines postcards</unittitle>
+								<physdesc>1 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1950s</unitdate>
+								<unittitle>Mexican postcards</unittitle>
+								<physdesc>10 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1974</unitdate>
+								<unittitle>Irish postcards</unittitle>
+								<physdesc>12 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1975</unitdate>
+								<unittitle>Hawaiian postcards</unittitle>
+								<physdesc>18 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1978</unitdate>
+								<unittitle>German postcards</unittitle>
+								<physdesc>9 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1978</unitdate>
+								<unittitle>Russian postcards</unittitle>
+								<physdesc>27 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1979</unitdate>
+								<unittitle>Alaskan postcards</unittitle>
+								<physdesc>3 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1983</unitdate>
+								<unittitle>Scottish postcards (<title render="italic"><part>Island World of Britain</part></title>)</unittitle>
+								<physdesc>10 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">B 11, F 3</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1984</unitdate>
+								<unittitle>On board the Argonaut (<title render="italic"><part>Summer River Views and Seascapes</part></title>)</unittitle>
+								<physdesc>1 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1985</unitdate>
+								<unittitle>Spainish and Portuguese postcards</unittitle>
+								<physdesc>165 loose; 5 sets, 231 cards total</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1986</unitdate>
+								<unittitle>New Zealand postcards</unittitle>
+								<physdesc>125 cards, plus 5 tiny postcard booklets</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">B 11, F4; B13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1986</unitdate>
+								<unittitle>Chinese postcards</unittitle>
+								<physdesc>30 loose; 5 empty covers; 17 sets, 208 cards total</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">B 11, F5; B13</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1986</unitdate>
+								<unittitle>The Netherlands and Belgium </unittitle>
+								<physdesc>112 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">14</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1988</unitdate>
+								<unittitle>English postcards</unittitle>
+								<physdesc>29 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">14</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1992</unitdate>
+								<unittitle>French postcards</unittitle>
+								<physdesc>140 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">14</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1993</unitdate>
+								<unittitle>Italian postcards</unittitle>
+								<physdesc>161 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">14</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1994</unitdate>
+								<unittitle>British and Scottish postcards</unittitle>
+								<physdesc>99 cards</physdesc>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>								
+								<container localtype="box">14</container>
+								<container localtype="folder"/>
+								<unitdate>ca. 1995</unitdate>
+								<unittitle>California postcards</unittitle>
+								<physdesc>23 cards</physdesc>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 4: Slides</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1954</unitdate>
+								<unittitle>Hong Kong etc. (6 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1950s</unitdate>
+								<unittitle>Mexico (5 boxes, 145 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1968</unitdate>
+								<unittitle>Hawaii (31 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1968</unitdate>
+								<unittitle>Nassau (34 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1971</unitdate>
+								<unittitle>Main Passage(14 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1971</unitdate>
+								<unittitle>Golden Odyssey (7 boxes, 138 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1971</unitdate>
+								<unittitle>Golden Odyssey slide carousel 1 of 2 (140 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1971</unitdate>
+								<unittitle>Golden Odyssey slide carousel 2 of 2 (146 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1974</unitdate>
+								<unittitle>European Capitals (2 boxes, 67 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1974</unitdate>
+								<unittitle>European Capitals, <title render="italic"><part>Ireland</part></title>slide carousel 1 of 3 (123 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1974</unitdate>
+								<unittitle>European Capitals, <title render="italic"><part>Lucerne / Venice / Florence</part></title>slide carousel 2 of 3 (120 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1974</unitdate>
+								<unittitle>European Capitals, <title render="italic"><part>Florence / Rome / Wantiez</part></title>slide carousel 3 of 3 (121 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1975</unitdate>
+								<unittitle>Christmas 75 Cruise slide carousel (139 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1978</unitdate>
+								<unittitle>Russia</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">34</container>
+								<unitdate>1978</unitdate>
+								<unittitle>Russia slide carousel (140 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1978</unitdate>
+								<unittitle>Munich slide carousel 1 of 2 (139 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1978</unitdate>
+								<unittitle>Munich slide carousel 2 of 2 (87 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">35</container>
+								<unitdate>1978</unitdate>
+								<unittitle>Munich slide carousel 2 of 2  papers</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1979</unitdate>
+								<unittitle>Alaska (2 boxes, 54 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1979</unitdate>
+								<unittitle>Alaska slide carousel (122 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1983</unitdate>
+								<unittitle><title render="italic"><part>Isles of Britain</part></title>slide carousel (135 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1985</unitdate>
+								<unittitle>Spain / Portugal slide carousel (140 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>China,<title render="italic"><part>Great Wall</part></title>(18 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>China,<title render="italic"><part>Palace Museum</part></title>(20 slides total with 4 missing)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>China slide carousel 1 of 3 (123 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>China slide carousel 2 of 3 (140 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>China slide carousel 3 of 3 (140 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>New Zealand <title render="italic"><part>needs to be organized</part></title> slide carousel(140 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1986</unitdate>
+								<unittitle>New Zealand <title render="italic"><part>pull outs</part></title>(114 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1988</unitdate>
+								<unittitle>Art Institute Tripe slide carousel 3 of 3 (153 slides total)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 5: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">6</container>
+								<unitdate>1948</unitdate>
+								<unittitle>Paris</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">7</container>
+								<unitdate>1953</unitdate>
+								<unittitle>Thailand (Bangkok)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">8</container>
+								<unitdate>ca. 1950s</unitdate>
+								<unittitle>Road Trip</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">9</container>
+								<unitdate>1975</unitdate>
+								<unittitle>Ireland</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">10</container>
+								<unitdate>1982</unitdate>
+								<unittitle>Germany</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">11</container>
+								<unitdate>1984</unitdate>
+								<unittitle><title render="italic"><part>Summer River Views and Seascapes</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">12</container>
+								<unitdate>ca. 1985</unitdate>
+								<unittitle>Madrid</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">13</container>
+								<unitdate>1986</unitdate>
+								<unittitle>New Zealand</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">14</container>
+								<unitdate>1995</unitdate>
+								<unittitle>California</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+				<c01 level="series">
+					<did>
+						<unittitle><title render="bolditalic"><part>Series 8: Personal Papers, general</part></title></unittitle>
+					</did>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 1: Correspondence</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">15</container>
+								<unitdate>1990 - 1991</unitdate>
+								<unittitle>Bhandari, Puru</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">36</container>
+								<unitdate>2007 - 2009, n.d.</unitdate>
+								<unittitle>Bird, Maureen (nee Stokes) and Neville</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">16</container>
+								<unitdate>1984</unitdate>
+								<unittitle>Cox, Esther and Lauren A.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">17</container>
+								<unitdate>1977 - 1998, n.d.</unitdate>
+								<unittitle>Fox, Etha B. (Bea)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">18</container>
+								<unitdate>1984</unitdate>
+								<unittitle>Cox, Esther and Lauren A.</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">19</container>
+								<unitdate>1933</unitdate>
+								<unittitle>Mother and Father</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">7</container>
+								<container localtype="folder">20</container>
+								<unitdate>1942 - 1946</unitdate>
+								<unittitle>O'Neill, Sister Thomas Aquinas</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">1</container>
+								<unitdate>1942 - 1947</unitdate>
+								<unittitle>O'Shea, Uncle Ben and Aunt Nell</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">2</container>
+								<unitdate>1953 - 1963, n.d.</unitdate>
+								<unittitle>O'Shea, Mary Florence to Mary Jane O'Shea</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">3</container>
+								<unitdate>1957</unitdate>
+								<unittitle>Tolchinsky, Nelly</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">4</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Vincent, John</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">5</container>
+								<unitdate>1993 - 2009</unitdate>
+								<unittitle>Correspondence, A</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">6</container>
+								<unitdate>1986 - 2009</unitdate>
+								<unittitle>Correspondence, B</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">7</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, C</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">8</container>
+								<unitdate>2008 - 2009, n.d.</unitdate>
+								<unittitle>Correspondence, D</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">9</container>
+								<unitdate>2008</unitdate>
+								<unittitle>Correspondence, F</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">10</container>
+								<unitdate>2009</unitdate>
+								<unittitle>Correspondence, G</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">11</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, H</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">12</container>
+								<unitdate>2009</unitdate>
+								<unittitle>Correspondence, J</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">13</container>
+								<unitdate>1985 - 2009</unitdate>
+								<unittitle>Correspondence, K</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">14</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, L</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">15</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, M</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">16</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, N</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">8</container>
+								<container localtype="folder">17</container>
+								<unitdate>1988 - 2009</unitdate>
+								<unittitle>Correspondence, P</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">1</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, R</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">2</container>
+								<unitdate>2007 - 2009</unitdate>
+								<unittitle>Correspondence, S</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">3</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, T</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">4</container>
+								<unitdate>1985 - 2009</unitdate>
+								<unittitle>Correspondence, W</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">5</container>
+								<unitdate>2008 - 2009</unitdate>
+								<unittitle>Correspondence, Z</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">6</container>
+								<unitdate>ca. 2000s</unitdate>
+								<unittitle>Christmas Cards, blank</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">7</container>
+								<unitdate>1981, n.d.</unitdate>
+								<unittitle>Correspondence, unknown</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 2: Prayer Cards</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">9</container>
+								<unitdate>1950 - 2009</unitdate>
+								<unittitle>In Memoriam, A - M</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">10</container>
+								<unitdate>1961 - 2007</unitdate>
+								<unittitle>In Memoriam, N - W</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">11</container>
+								<unitdate>1951 - 2006</unitdate>
+								<unittitle>In Remembrance of Ordinations</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 3: Chronological Files</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">12</container>
+								<unitdate>1928</unitdate>
+								<unittitle>Holy Cross - Easter Offering, 1928</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">13</container>
+								<unitdate>1933</unitdate>
+								<unittitle>Holy Cross School Solemn Closing Exercises</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1933</unitdate>
+								<unittitle>Archdiocese of Chicago, Board of Education - Holy Cross School Diploma</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">14</container>
+								<unitdate>1934</unitdate>
+								<unittitle>The High Schoool of St. Thomas the Apostle - The 1934 Memory Book</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">15</container>
+								<unitdate>1937</unitdate>
+								<unittitle>The High Schoool of St. Thomas the Apostle - <title render="italic"><part>The Apostalite</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1937</unitdate>
+								<unittitle>The High Schoool of St. Thomas the Apostle - <title render="italic"><part>Crede Mihi</part></title>, Vol. IV, No. 6</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">16</container>
+								<unitdate>1942</unitdate>
+								<unittitle>Defense Stamp Album</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">17</container>
+								<unitdate>1943</unitdate>
+								<unittitle>War Ration Books</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">18</container>
+								<unitdate>1946 - 1947</unitdate>
+								<unittitle>New York Life Insurance Company</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">19</container>
+								<unitdate>1947</unitdate>
+								<unittitle>"The Effect of Boron Deficiency on Plant Metabolism and Growth", Masters of Science essay submission</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">20</container>
+								<unitdate>1947</unitdate>
+								<unittitle>The University of Chicago - Masters of Science</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">21</container>
+								<unitdate>ca. 1947</unitdate>
+								<unittitle>Soil from the Tomb of Blessed Martin De Porres, OP</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">22</container>
+								<unitdate>ca. 1940s</unitdate>
+								<unittitle>Writings on Catholicism </unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">23</container>
+								<unitdate>1952</unitdate>
+								<unittitle>1040 U.S. Individual Income Tax Form </unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">9</container>
+								<container localtype="folder">24</container>
+								<unitdate>1955 - 2000</unitdate>
+								<unittitle>Papal Blessings</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">12</container>
+								<container localtype="folder">37</container>
+								<unitdate>1964</unitdate>
+								<unittitle>The North American Company Insurance Policy </unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">1</container>
+								<unitdate>ca. 1965 - 2002</unitdate>
+								<unittitle>Old Saint Mary's Church</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1978</unitdate>
+								<unittitle>Clippings - <title render="italic"><part>Pope John Paul I Begins His Reign</part></title></unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">2</container>
+								<unitdate>1979</unitdate>
+								<unittitle>Pope John Paul II in Chicago (see also: Oversized)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">3</container>
+								<unitdate>1982 - 1983</unitdate>
+								<unittitle>Estate of Mary Jane O'Shea</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">4</container>
+								<unitdate>1983</unitdate>
+								<unittitle>Family Record of Mary Florence O'Shea</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">5</container>
+								<unitdate>2000</unitdate>
+								<unittitle>Sr. Candida Lund Memorial Materials</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">6</container>
+								<unitdate>2000</unitdate>
+								<unittitle>Rev. Edward Stokes Obituaries</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">7</container>
+								<unitdate>2004</unitdate>
+								<unittitle>Driver's License</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">8</container>
+								<unitdate>2005 - 2006</unitdate>
+								<unittitle>Mahogany Mink Coat</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">9</container>
+								<unitdate>2009</unitdate>
+								<unittitle>Safe Deposit - Content List</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">10</container>
+								<unitdate>2010</unitdate>
+								<unittitle>Memorial Books, Blake-Lamb Funeral Home</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">11</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Address List</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">12</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Holy Cross - Directory of the Class of '33</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 4: Ephemera</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>ca. 1980s</unitdate>
+								<unittitle>Mahogany Mink Coat</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Mahogany Mink Hat</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Madonna collection, 7 items total</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 5: Slides</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">1</container>
+								<unitdate>1965</unitdate>
+								<unittitle>Chicago - Boats (4 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+								<did>
+									<container localtype="box">15</container>
+									<container localtype="folder">3</container>
+									<unitdate>1966</unitdate>
+									<unittitle>Wantiez, Belgian Relations (19 slides total)</unittitle>
+								</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1969</unitdate>
+								<unittitle>Altar Soc + Violent (23 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1969</unitdate>
+								<unittitle>Astronauts (11 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">6</container>
+								<unitdate>1970</unitdate>
+								<unittitle>Chicago - Parade (8 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">7</container>
+								<unitdate>1971</unitdate>
+								<unittitle>Chicago and Condo (6 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">9</container>
+								<unitdate>1972</unitdate>
+								<unittitle>Stokes Family (7 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">11</container>
+								<unitdate>1976</unitdate>
+								<unittitle>Chicago - Bicentennial Parade (8 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">15</container>
+								<container localtype="folder">12</container>
+								<unitdate>1972 - 1979</unitdate>
+								<unittitle>Chicago and Condo (20 slides total)</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box"/>
+								<container localtype="folder"/>
+								<unitdate>1994</unitdate>
+								<unittitle>Family (19 slides total)</unittitle>
+							</did>
+						</c03>
+					</c02>
+					<c02 level="subseries">
+						<did>
+							<unittitle><title render="bolditalic"><part>Sub-series 6: Photographs</part></title></unittitle>
+						</did>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">13</container>
+								<unitdate>ca. 1923 - 1997, n.d.</unitdate>
+								<unittitle>Mary Florence O'Shea, portraits and candid</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">FFC3, D3</container>
+								<container localtype="folder"/>
+								<unitdate>1937</unitdate>
+								<unittitle>St. Thomas the Apostle High School - Class of June 1937</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">14</container>
+								<unitdate>ca. 1955</unitdate>
+								<unittitle>Audience with Pope Pius XII</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">15</container>
+								<unitdate>1956 - 1975, n.d.</unitdate>
+								<unittitle>Mary Florence and Mary Jane O'Shea</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">16</container>
+								<unitdate>1954 - 1970</unitdate>
+								<unittitle>Friends and Family</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">17</container>
+								<unitdate>1973 - 1989</unitdate>
+								<unittitle>Friends and Family</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">18</container>
+								<unitdate>1990 - 2007</unitdate>
+								<unittitle>Friends and Family</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">10</container>
+								<container localtype="folder">19</container>
+								<unitdate>1997</unitdate>
+								<unittitle>St. Thomas the Apostle 60th Anniversary Reunion</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">11</container>
+								<container localtype="folder">1</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Friends and Family</unittitle>
+							</did>
+						</c03>
+						<c03 level="file">
+							<did>
+								<container localtype="box">11</container>
+								<container localtype="folder">2</container>
+								<unitdate>n.d.</unitdate>
+								<unittitle>Negatives</unittitle>
+							</did>
+						</c03>
+					</c02>
+				</c01>
+				
+			</dsc>
+		 
+	</archdesc>
+	
+</ead>
+
+
